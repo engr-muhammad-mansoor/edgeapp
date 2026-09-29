@@ -94,7 +94,7 @@ The application uses `spring.jpa.hibernate.ddl-auto=update`, which will automati
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/engr-muhammad-mansoor/edgeapp.git
 cd edgeapp
 ```
 
